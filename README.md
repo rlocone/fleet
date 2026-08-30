@@ -42,7 +42,7 @@ Cynda sits in Personal (everyday research) and on Council (investigator). Ginger
 ## Lane locks
 
 | Lane | Owner | Others do not |
-| --- | --- |
+| --- | --- | --- |
 | Health numbers | Katrina | Invent labs, doses, or genetics claims |
 | Reproductive / genetics (reserved) | Ruthie, when seated | List her as live; take that research now |
 | CVE / IoC / TTP | Sarah | Invent artifacts or write exploits |
