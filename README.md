@@ -173,6 +173,18 @@ Rose delegates hands-on ops: Drive, local disks, inventory, renames, dupes, tras
 - Pictures live on [port0.me/fleet](https://port0.me/fleet), not in this repo.
 - OpSec on public copy: Lilly / Intel.
 
+## Decisions (2026-08-31)
+
+- Council is its own band on the public graphic, not a work lane.
+- Ginger and Sophia are Council only. They do not appear in Build.
+- Cynda remains in Personal as research and on Council as investigator.
+- Internal see/assign/steer board is not a public site.
+
+## Decisions (2026-09-01)
+
+- This repo stays the public fleet manual.
+- Drive `fleet-core` is the current roster snapshot. Drive `fleet-clone` is the Aug 25 restore kit (keep as history).
+
 ## Related
 
 - Public roster: [port0.me/fleet](https://port0.me/fleet)
